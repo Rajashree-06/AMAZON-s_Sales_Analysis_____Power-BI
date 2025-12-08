@@ -29,12 +29,4 @@ Region-Wise Performance
 
 To demonstrate the ability to clean, model, and visualize real-world e-commerce data and deliver insights useful for decision-making.
 
-🛠 Tools Used
 
-Power BI
-
-Power Query
-
-DAX
-
-Excel (CSV dataset)
